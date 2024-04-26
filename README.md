@@ -4,7 +4,8 @@ To install this mod:
 
 Known Issues:
 Whilst the asset swap works perfectly for the occasions where Baby.nif is used, when Shaun is being carried there is a lot of clipping through either Nate or Nora. 
-When the events occur in the vault the asset swapped model for Shaun is invisible.
+When the events occur in the vault the asset swapped model for Shaun is invisible. This may be because when shaun is being carried he is seen in the game as a pip-boy and
+my asset swap currently is not.
 
 To implement:
 Replace all of Shaun's dialogue with that of Liberty Prime.
